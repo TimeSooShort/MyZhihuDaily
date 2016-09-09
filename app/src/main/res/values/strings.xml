@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">闲暇</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">声明</string>
+    <string name="title_activity_read">阅读</string>
+    <string name="loading">加载中</string>
+    <string name="wrong_process">发生错误</string>
+    <string name="share_extra">分享自知乎日报</string>
+    <string name="share_to">分享至</string>
+    <string name="likes">赞</string>
+    <string name="comments">评论</string>
+    <string name="action_open_in_brower">在浏览器中打开</string>
+    <string name="go_to_set">去设置</string>
+    <string name="no_network_connected">当前没有网络</string>
+    <string name="positive">确定</string>
+    <string name="negative">取消</string>
+    <string name="title_activity_comments">评论</string>
+    <string name="settings">设置</string>
+    <string name="no_picture_mode">无图模式</string>
+    <string name="no_picture_mode_description">阅读时不加载图片</string>
+    <string name="in_app_browser">使用内置浏览器</string>
+    <string name="in_app_browser_description">应用内查看链接</string>
+    <string name="other">其它</string>
+    <string name="no_splash">禁止加载启动页</string>
+    <string name="load_splash_description">直接进入主界面</string>
+    <string name="theme_post">主题日报</string>
+    <string name="welcome_to_zhihuDaily">欢迎使用</string>
+    <string name="copy_right">本App所使用的所有API均由 知乎（Zhihu.Inc）提供,本人仅以学习使用</string>
+    <string name="go_it">了解</string>
+    <string name="latest_post">知乎日报</string>
+    <string name="hot_post">热门消息</string>
+    <string name="change_theme">切换主题</string>
+</resources>

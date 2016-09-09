@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.preference.PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <android.support.v7.preference.PreferenceCategory
+        android:title="@string/title_activity_read">
+
+        <android.support.v7.preference.CheckBoxPreference
+            android:title="@string/no_picture_mode"
+            android:key="no_picture_mode"
+            android:defaultValue="false"
+            android:summary="@string/no_picture_mode_description"/>
+
+        <android.support.v7.preference.CheckBoxPreference
+            android:title="@string/in_app_browser"
+            android:key="in_app_browser"
+            android:defaultValue="false"
+            android:summary="@string/in_app_browser_description"/>
+
+    </android.support.v7.preference.PreferenceCategory>
+
+    <android.support.v7.preference.PreferenceCategory
+        android:title="@string/other">
+
+        <android.support.v7.preference.CheckBoxPreference
+            android:title="@string/no_splash"
+            android:key="load_splash"
+            android:defaultValue="false"
+            android:summary="@string/load_splash_description"/>
+    </android.support.v7.preference.PreferenceCategory>
+
+</android.support.v7.preference.PreferenceScreen>
