@@ -14,10 +14,6 @@
             android:id="@+id/nav_hot_post"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="@string/hot_post"/>
-        <item
-            android:id="@+id/nav_manage"
-            android:icon="@drawable/ic_menu_manage"
-            android:title="Tools"/>
     </group>
 
     <item android:title="@string/other">
